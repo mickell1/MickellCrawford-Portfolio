@@ -28,7 +28,7 @@ const Justify = styled.p`
 class Home extends React.Component {
   render () {
     // validate siteConfig settings
-    if (siteConfig.googleAnalyticsId === 'UA-000000000-1') {
+    if (siteConfig.googleAnalyticsId === 'UA-169218664-1') {
       console.error('WARNING: Please set a proper googleAnalyticsId. See https://analytics.google.com for details.');
     }
 
