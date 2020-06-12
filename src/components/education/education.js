@@ -6,7 +6,7 @@ const education = () => {
     <article>
       <h2>Education & Qualifications</h2>
 
-      <h4>AND DIGITAL</h4>
+      <h4>AND DIGITAL [2017-2019]</h4>
       <p>Professional Scrum Master(PSM1)</p>
       <p>AWS Business Professional (Digital) </p>
       <p>AWS Technical Professional (Digital)</p>

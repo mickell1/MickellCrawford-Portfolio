@@ -119,14 +119,14 @@ module.exports = {
   ],
   portifolio: [
     {
-      image: "/images/gatsby-starter-cv.png",
-      description: "Gatsby starter CV template",
-      url: "https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/"
+      image: "/images/mickell-portfolio.png",
+      description: "Mickell Crawford Portfolio Page",
+      url: "https://github.com/mickell1/MickellCrawford-Portfolio"
     },
     {
-      image: "/images/awesome-grid.png",
-      description: "Responsive grid for ReactJS",
-      url: "https://github.com/santosfrancisco/react-awesome-styled-grid"
+      image: "/images/react-shopping.gif",
+      description: "React Shopping Cart",
+      url: "https://github.com/mickell1/React-Shopping-Cart"
     },
     /* more portifolio items here */
   ],
@@ -149,7 +149,7 @@ module.exports = {
       url: '/',
     },
     {
-      label: 'Portifolio',
+      label: 'Projects',
       url: '/portifolio',
     }
   ]
