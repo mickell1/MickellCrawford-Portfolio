@@ -124,9 +124,19 @@ module.exports = {
       url: "https://github.com/mickell1/MickellCrawford-Portfolio"
     },
     {
+      image: "/images/informationpage.png",
+      description: "Information Web Page",
+      url: "https://github.com/mickell1/Information-webpage"
+    },
+    {
       image: "/images/react-shopping.gif",
       description: "React Shopping Cart",
       url: "https://github.com/mickell1/React-Shopping-Cart"
+    },
+    {
+      image: "/images/secretescapes.gif",
+      description: "Built RecommendedForYou section, the two grids below it and map view",
+      url: "https://www.secretescapes.com/current-sales"
     },
     /* more portifolio items here */
   ],

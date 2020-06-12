@@ -17,11 +17,11 @@
 
 ### Mobile
 
-![Preview mobile](./preview-mobile.gif)
+![Preview mobile](./portfolio-mobile.gif)
 
 ### Desktop
 
-![Preview desktop](./preview-desktop.gif)
+![Preview desktop](./portfolio-home.gif)
 
 ## 🚀 Quick start
 
